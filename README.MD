@@ -44,7 +44,7 @@ $ npm run dev
 ```sh
 $ cd web
 $ npm install
-$ npm rin dev
+$ npm run dev
 ```
 
 <br>
